@@ -1,5 +1,8 @@
 # Basic Layouts in Compose Codelab
 
+<img src="https://user-images.githubusercontent.com/12657374/231856366-6851c0e9-da7e-4715-9a70-f1b1cd9a3986.png" width="250">
+
+
 This folder contains the source code for
 the [Basic Layouts in Compose Codelab](https://developer.android.com/codelabs/jetpack-compose-layouts)
 
